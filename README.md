@@ -1,31 +1,28 @@
 <div align="center">
 
 ```
-               AAA               RRRRRRRRRRRRRRRRR   IIIIIIIIIINNNNNNNN        NNNNNNNN     OOOOOOOOO     VVVVVVVV           VVVVVVVV   AAA               
-              A:::A              R::::::::::::::::R  I::::::::IN:::::::N       N::::::N   OO:::::::::OO   V::::::V           V::::::V  A:::A              
-             A:::::A             R::::::RRRRRR:::::R I::::::::IN::::::::N      N::::::N OO:::::::::::::OO V::::::V           V::::::V A:::::A             
-            A:::::::A            RR:::::R     R:::::RII::::::IIN:::::::::N     N::::::NO:::::::OOO:::::::OV::::::V           V::::::VA:::::::A            
-           A:::::::::A             R::::R     R:::::R  I::::I  N::::::::::N    N::::::NO::::::O   O::::::O V:::::V           V:::::VA:::::::::A           
-          A:::::A:::::A            R::::R     R:::::R  I::::I  N:::::::::::N   N::::::NO:::::O     O:::::O  V:::::V         V:::::VA:::::A:::::A          
-         A:::::A A:::::A           R::::RRRRRR:::::R   I::::I  N:::::::N::::N  N::::::NO:::::O     O:::::O   V:::::V       V:::::VA:::::A A:::::A         
-        A:::::A   A:::::A          R:::::::::::::RR    I::::I  N::::::N N::::N N::::::NO:::::O     O:::::O    V:::::V     V:::::VA:::::A   A:::::A        
-       A:::::A     A:::::A         R::::RRRRRR:::::R   I::::I  N::::::N  N::::N:::::::NO:::::O     O:::::O     V:::::V   V:::::VA:::::A     A:::::A       
-      A:::::AAAAAAAAA:::::A        R::::R     R:::::R  I::::I  N::::::N   N:::::::::::NO:::::O     O:::::O      V:::::V V:::::VA:::::AAAAAAAAA:::::A      
-     A:::::::::::::::::::::A       R::::R     R:::::R  I::::I  N::::::N    N::::::::::NO:::::O     O:::::O       V:::::V:::::VA:::::::::::::::::::::A     
-    A:::::AAAAAAAAAAAAA:::::A      R::::R     R:::::R  I::::I  N::::::N     N:::::::::NO::::::O   O::::::O        V:::::::::VA:::::AAAAAAAAAAAAA:::::A    
-   A:::::A             A:::::A   RR:::::R     R:::::RII::::::IIN::::::N      N::::::::NO:::::::OOO:::::::O         V:::::::VA:::::A             A:::::A   
-  A:::::A               A:::::A  R::::::R     R:::::RI::::::::IN::::::N       N:::::::N OO:::::::::::::OO           V:::::VA:::::A               A:::::A  
- A:::::A                 A:::::A R::::::R     R:::::RI::::::::IN::::::N        N::::::N   OO:::::::::OO              V:::VA:::::A                 A:::::A 
-AAAAAAA                   AAAAAAARRRRRRRR     RRRRRRRIIIIIIIIIINNNNNNNN         NNNNNNN     OOOOOOOOO                 VVVAAAAAAA                   AAAAAAA
+ $$$$$$\  $$$$$$$\  $$$$$$\ $$\   $$\  $$$$$$\  $$\    $$\  $$$$$$\  
+$$  __$$\ $$  __$$\ \_$$  _|$$$\  $$ |$$  __$$\ $$ |   $$ |$$  __$$\ 
+$$ /  $$ |$$ |  $$ |  $$ |  $$$$\ $$ |$$ /  $$ |$$ |   $$ |$$ /  $$ |
+$$$$$$$$ |$$$$$$$  |  $$ |  $$ $$\$$ |$$ |  $$ |\$$\  $$  |$$$$$$$$ |
+$$  __$$ |$$  __$$<   $$ |  $$ \$$$$ |$$ |  $$ | \$$\$$  / $$  __$$ |
+$$ |  $$ |$$ |  $$ |  $$ |  $$ |\$$$ |$$ |  $$ |  \$$$  /  $$ |  $$ |
+$$ |  $$ |$$ |  $$ |$$$$$$\ $$ | \$$ | $$$$$$  |   \$  /   $$ |  $$ |
+\__|  \__|\__|  \__|\______|\__|  \__| \______/     \_/    \__|  \__|
+                                                                     
+                                                                     
+                                                                     
 ```
 
 ```
-┌─────────────────────────────────────────────────────┐
-│  $ whoami                                           │
-│  > Maneesh — builder, engineer, designer, tinkerer  │
-│  $ status                                           │
-│  > breaking something, as usual                     │
-└─────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────┐
+│  $ whoami                                               │
+│  > Maneesh Ari — builder, engineer, designer, tinkerer  │
+│  $ education                                            │
+│  > B.Tech CS, VIT Vellore                               │
+│  $ status                                               │
+│  > breaking something, as usual                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
 </div>
