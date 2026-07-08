@@ -19,7 +19,7 @@ $$ |  $$ |$$ |  $$ |$$$$$$\ $$ | \$$ | $$$$$$  |   \$  /   $$ |  $$ |
 │  $ whoami                                               │
 │  > Maneesh Ari — builder, engineer, designer, tinkerer  │
 │  $ education                                            │
-│  > B.Tech CS, VIT Vellore                               │
+│  > Senior Undergrad CS @ VIT Vellore                               │
 │  $ status                                               │
 │  > breaking something, as usual                         │
 └─────────────────────────────────────────────────────────┘
