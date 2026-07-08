@@ -84,7 +84,7 @@ Multi-user FastAPI service with JWT auth for applications, contacts, and intervi
 
 <img src="assets/dots-divider.svg" width="100%"/>
 
-## <img src="assets/ghost_green.png" width="26" valign="middle"/> Elsewhere
+## <img src="assets/ghost_green.png" width="26" valign="middle"/> Find Me
 
 <div align="center">
 
